@@ -141,8 +141,4 @@ Yaygın sorunlar ve çözümleri:
 - Test senaryolarını gözden geçirin ve güncelleyin
 - Düzgün dokümantasyonu koruyun
 
-## 📄 Lisans
-[Lisansınızı belirtin]
 
-## 📞 İletişim
-[İletişim bilgileriniz]
